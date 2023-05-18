@@ -1,0 +1,15 @@
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\bin\Debug\net6.0\LoopPractice.exe
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\bin\Debug\net6.0\LoopPractice.deps.json
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\bin\Debug\net6.0\LoopPractice.runtimeconfig.json
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\bin\Debug\net6.0\LoopPractice.dll
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\bin\Debug\net6.0\LoopPractice.pdb
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\LoopPractice.csproj.AssemblyReference.cache
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\LoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\LoopPractice.AssemblyInfoInputs.cache
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\LoopPractice.AssemblyInfo.cs
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\LoopPractice.csproj.CoreCompileInputs.cache
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\LoopPractice.dll
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\refint\LoopPractice.dll
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\LoopPractice.pdb
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\LoopPractice.genruntimeconfig.cache
+C:\Users\koval\Desktop\Projekts\LoopPractise\PracticeLoops\obj\Debug\net6.0\ref\LoopPractice.dll
