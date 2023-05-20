@@ -15,7 +15,8 @@ namespace LoopPractice
             {
                 if (i == tableLength / 2)
                 {
-                    Console.WriteLine("+" + new string(' ', halfOfTable) + input + new string(' ', halfOfTable) + "+");
+                    Console.WriteLine("+" + new string(' ', halfOfTable) +
+                        input + new string(' ', halfOfTable) + "+");
                 }
 
                 Console.WriteLine("+" + new string(' ', tableWidth) + "+");

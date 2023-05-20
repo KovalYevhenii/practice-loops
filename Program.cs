@@ -30,7 +30,8 @@ namespace ConsoleApp2
                     " 1 - Name table, 2 - Chess table, 3 - Cross table, 4 - All tables");
 
                 string? choose = Console.ReadLine();
-                string message = string.IsNullOrEmpty(choose) ? "you entered an empty string" : " ";
+                string message = string.IsNullOrEmpty(choose) ?
+                    "you entered an empty string" : " ";
                 Console.WriteLine(message);
 
                 var width = input.Length * n;
