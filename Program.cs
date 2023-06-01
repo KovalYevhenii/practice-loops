@@ -29,7 +29,7 @@ namespace ConsoleApp2
                 var width = input.Length;
                 if (width > 40)
                 {
-                    Console.WriteLine("width must be smaller then 40 ");
+                    Console.WriteLine("text length must be smaller then 40 characters");
                     continue;
                 }
                 break;
@@ -75,10 +75,8 @@ namespace ConsoleApp2
                     default:
                         Console.WriteLine("Wrong command");
                         continue;
-
                 }
             }
-
         }
     }
 }
